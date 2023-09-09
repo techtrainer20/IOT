@@ -1,0 +1,5 @@
+1)https://github.com/techtrainer20/IOT
+
+2)https://www.tinkercad.com/ ( arduino simulation)
+
+3)https://wokwi.com/projects/356794211858247681 (nodemcu)
